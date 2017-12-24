@@ -13,6 +13,7 @@ LinkedIn - https://www.linkedin.com/in/harshita-singh-547378a2/
 
 
 <a href="www.google.com" text = hello from the other side></a>
+[Google](http://google.com)
 
 
 ### Educational Qualifications
