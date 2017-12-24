@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+**Contact Information**
 
-You can use the [editor on GitHub](https://github.com/HarshitaSingh47/harshitasingh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Phone - 9591353047
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email - harshitasingh47@gmail.com
+
+LinkedIn - https://www.linkedin.com/in/harshita-singh-547378a2/
+
+
+
 
 ### Markdown
 
