@@ -1,4 +1,4 @@
-### **Contact Information**
+### Contact Information
 
 Phone - 9591353047
 
@@ -10,6 +10,8 @@ LinkedIn - https://www.linkedin.com/in/harshita-singh-547378a2/
 
 
 ### About Me 
+## About Me
+# About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
