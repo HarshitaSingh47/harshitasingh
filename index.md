@@ -12,13 +12,16 @@ LinkedIn - https://www.linkedin.com/in/harshita-singh-547378a2/
 ### About Me 
 
 
-.`.`.`.`.`.`.`.`.`.
+
+
+
+### Educational Qualifications
 
 
 
 
 
-
+### Projects and Experiences 
 
 
 ```markdown
