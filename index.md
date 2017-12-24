@@ -12,7 +12,7 @@ LinkedIn - https://www.linkedin.com/in/harshita-singh-547378a2/
 ### About Me 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+..........
 
 ```markdown
 Syntax highlighted code block
