@@ -12,7 +12,14 @@ LinkedIn - https://www.linkedin.com/in/harshita-singh-547378a2/
 ### About Me 
 
 
-..........
+.`.`.`.`.`.`.`.`.`.
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
